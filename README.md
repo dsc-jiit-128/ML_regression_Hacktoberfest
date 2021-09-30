@@ -6,10 +6,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/dsc-jiit-128/ML_regression_Hacktoberfest)](https://github.com/dsc-jiit-128/ML_classification_Hacktoberfest/issues)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?)](https://github.com/dsc-jiit-128/class_bot/issues)
 
-# King-Rook Vs King-Pawn Classification
-
-**SOURCE CODE ( GOOGLE COLAB )** 
- - *https://colab.research.google.com/drive/1TyKeWPdRRWGTRl8lfa8aIJvNjq8F_deH?usp=sharing*
+# Predicting marks of student wrt no of hours using Liner regression model
 
 **TASK**
  - `Create a Machine Learning Classification Model that can perform better on the Given Dataset.`
@@ -18,7 +15,7 @@
 
  - `Fork the repository and clone.`
  - `Upload your notebook in .ipynb format inside Submissions folder.`
- -  The file name should be of the format: `<Your_Name>_<Your_College>    For example: SarthakPant_JIIT128.ipynb`
+ -  The file name should be of the format: `<Your_Name>_<Your_College>    For example: Rambagga_JIIT128.ipynb`
  - `Then add a Pull Request.`
 
 **Important Notes**
