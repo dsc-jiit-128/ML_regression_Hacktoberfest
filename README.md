@@ -1,9 +1,9 @@
 # HACKTOBERFEST 2021 is here! ✨
 <p align="center"><img src="https://drive.google.com/uc?export=view&id=1S0cxxnFmQ99ExpKxuC5i3ROT2ppA0gs0"></p>
 
-[![GitHub stars](https://img.shields.io/github/stars/dsc-jiit-128/ML_classification_Hacktoberfest?color=green)](https://github.com/dsc-jiit-128/ML_classification_Hacktoberfest/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/dsc-jiit-128/ML_classification_Hacktoberfest?color=green)](https://github.com/dsc-jiit-128/ML_classification_Hacktoberfest/network)
-[![GitHub issues](https://img.shields.io/github/issues/dsc-jiit-128/ML_classification_Hacktoberfest)](https://github.com/dsc-jiit-128/ML_classification_Hacktoberfest/issues)
+[![GitHub stars](https://img.shields.io/github/stars/dsc-jiit-128/ML_regression_Hacktoberfest?color=green)](https://github.com/dsc-jiit-128/ML_classification_Hacktoberfest/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/dsc-jiit-128/ML_regression_Hacktoberfest?color=green)](https://github.com/dsc-jiit-128/ML_classification_Hacktoberfest/network)
+[![GitHub issues](https://img.shields.io/github/issues/dsc-jiit-128/ML_regression_Hacktoberfest)](https://github.com/dsc-jiit-128/ML_classification_Hacktoberfest/issues)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?)](https://github.com/dsc-jiit-128/class_bot/issues)
 
 # King-Rook Vs King-Pawn Classification
